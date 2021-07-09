@@ -1,4 +1,4 @@
-set(LLVM_TARGETS_TO_BUILD ARM;X86 CACHE STRING "")
+set(LLVM_TARGETS_TO_BUILD ARM;X86;HCS12 CACHE STRING "")
 
 # Builtins
 set(LLVM_BUILTIN_TARGETS "armv7m-none-eabi;armv6m-none-eabi;armv7em-none-eabi" CACHE STRING "Builtin Targets")

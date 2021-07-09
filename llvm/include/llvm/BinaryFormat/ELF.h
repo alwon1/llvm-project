@@ -627,6 +627,9 @@ enum {
 enum {
 #include "ELFRelocs/Hexagon.def"
 };
+enum  {
+    #include "ELFRelocs/Hcs12.def"
+};
 
 // ELF Relocation type for Lanai.
 enum {

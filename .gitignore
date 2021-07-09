@@ -68,3 +68,14 @@ pythonenv*
 /clang/utils/analyzer/projects/*/RefScanBuildResults
 # automodapi puts generated documentation files here.
 /lldb/docs/python_api/
+/libc/out/build/x64-Debug
+/libunwind/out/build/x64-Debug
+/lld/out/build/x64-Debug
+/cross-project-tests/out/build/x64-Debug
+/compiler-rt/out/build/x64-Debug
+/clang/out/build/x64-Debug
+/clang-tools-extra/out/build/x64-Debug
+/debuginfo-tests/out/build/x64-Debug/CMakeFiles
+/libclc/out/build/x64-Debug
+/llvm/out/build/x64-Debug
+/mlir/out/build/x64-Debug
